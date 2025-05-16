@@ -13,7 +13,7 @@ Special Day is a web application designed to calculate the countdown to special 
 
 ## Usage
 
-1.  **Access the Web Application:** Open your web browser and navigate to [https://dcspare.github.io/Special-day/](https://dcspare.github.io/Special-day/).
+1.  **Access the Web Application:** Click on this link or Copy the link address [Special day Website](https://dcspare.github.io/Special-day/).
 2.  **View the Countdown:** The application will display the countdown to the next special day. The specific special days are based on the Indonesian calendar.
 
 ## Technical Details
